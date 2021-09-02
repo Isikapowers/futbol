@@ -65,6 +65,8 @@ List of features:
 ## Contact
 Created by
 * [@isikapowers](https://github.com/Isikapowers)
-* [@](https://github.com/Isikapowers)
-* 
+* [@WMudgeEllis](https://github.com/Westonellis)
+* [@acmassey3698](https://github.com/acmassey3698)
+* [@ozzman84](https://github.com/@ozzman84)
+* [@aPatterson](https://github.com/aPatterson)
 
